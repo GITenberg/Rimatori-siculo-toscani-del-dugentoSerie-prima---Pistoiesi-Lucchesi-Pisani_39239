@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '39916'
     url: http://www.gutenberg.org/2009/agents/39916
 description: No more published.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39239#Rimatori-siculo-toscani-del-dugentoSerie-prima---Pistoiesi-Lucchesi-Pisani
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2012-03-24'
 gutenberg_type: Text
